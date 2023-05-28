@@ -9,3 +9,9 @@ pip install random
 
 
 ng serve --disable-host-check --host=0.0.0.0
+
+installazioni angular 
+npm i-g @angular/cli 
+npm i
+npm install @angular/google-maps
+npm install @types/google-maps
