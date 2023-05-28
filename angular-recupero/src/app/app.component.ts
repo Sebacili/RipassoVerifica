@@ -49,6 +49,7 @@ export class AppComponent implements OnInit {
   mostra() {
     this.accendi = !this.accendi
   }
+  
 }
 
 
